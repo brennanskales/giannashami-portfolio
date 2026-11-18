@@ -95,7 +95,7 @@ a{color:#141210}a:hover{color:#8A5A3C}
 .services{background:#141210;color:#F5F0E8;padding:120px 5vw}
 .svc-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:24px;width:100%;max-width:1040px;margin:0 auto}
 .svc{background:#221F1B;border:1px solid #3A352F;border-radius:8px;overflow:hidden;display:flex;flex-direction:column}
-.svc img{width:100%;aspect-ratio:16/10;object-fit:cover;display:block}
+.svc img{width:100%;aspect-ratio:4/5;object-fit:cover;display:block}
 .svc-body{padding:22px 22px 26px;display:flex;flex-direction:column;gap:8px}
 .svc h3{margin:0;font-size:20px;font-weight:700}
 .svc p{margin:0;font-size:14px;line-height:1.55;color:#C9BFB2}
